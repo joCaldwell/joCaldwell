@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joCaldwell
-- 👀 I’m interested in Solidity development, blockchain and anything decentralized
-- 🌱 I’m currently learning Etherium development With solidity and Web3js
-- 💞️ I’m looking to collaborate on Cryptocurrency startups
+- 👀 I’m interested in graphics programming in c++ with opengl and glfw
+- 🌱 I’m currently learning C++ library development and embeded systems
+- 💞️ I’m looking for interships that will make me more knowlegable and a better person
 - 📫 email joshcaldwell270@gmail.com
 
 <!---
